@@ -1,7 +1,9 @@
 # Maze
+
 import java.util.*;
-public class Main {
-	static int[][] maze;
+public class Main 
+
+        static int[][] maze;
 	static int n;
 	static int min;
 	public static void main(String[] args) {
